@@ -1,2 +1,3 @@
 # ColorChange
-Change the color of circle when the cursor comes on it
+Change the color of window on clicking the box
+
